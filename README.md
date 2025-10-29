@@ -78,13 +78,6 @@ If you want to recreate this project on your local system:
 
 ---
 
-## 🖼️ Preview
-
-<p align="center">
-  <img src="https://i.postimg.cc/pLfK6k0n/chat-room-preview.png" alt="Chat Room Preview" width="600"/>
-</p>
-
-> *This is a sample layout preview of the Chat Room Website.*
 
 ---
 
